@@ -4,7 +4,7 @@
 
 ## 一把梭
 
-打开[肥羊订阅转换前端](https://sub.v1.mk/)，填入必要信息（远程配置——https://raw.githubusercontent.com/cutethotw/ClashRule/main/GeneralClashRule.ini ），用就完事了
+打开[肥羊订阅转换前端](https://sub.v1.mk/)，填入必要信息（远程配置——https://raw.githubusercontent.com/haygcao/clashdiy/master/GeneralClashRule.ini ），用就完事了
 [![vDhTA0.png](https://s1.ax1x.com/2022/08/18/vDhTA0.png)](https://imgtu.com/i/vDhTA0)
 
 [![vDhd6H.png](https://s1.ax1x.com/2022/08/18/vDhd6H.png)](https://imgtu.com/i/vDhd6H)
@@ -105,7 +105,7 @@
 >
 >   > * 分流配置，可以选择给定的也可以输入URL自定义分流规则（注意必须是直链才行），自用clash分流规则直链地址
 >   >
->   >   > https://raw.githubusercontent.com/cutethotw/ClashRule/main/GeneralClashRule.ini
+>   >   > https://raw.githubusercontent.com/haygcao/clashdiy/master/GeneralClashRule.ini
 >   >
 >   > * 自定义策略组
 >   >
