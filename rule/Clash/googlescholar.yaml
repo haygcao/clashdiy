@@ -2,10 +2,6 @@ payload:
   - DOMAIN,scholar.google.com
   - DOMAIN,www.scholar.google.com
 
+  - DOMAIN-KEYWORD,scholar.google
   - DOMAIN-SUFFIX,scholar.google.com
   - DOMAIN-SUFFIX,googleusercontent.com
-scholar.google.com
-www.scholar.google.com
-
-scholar.google.com.hk
-2404:6800:4004:81a::2003 www.scholar.google.com.hk
